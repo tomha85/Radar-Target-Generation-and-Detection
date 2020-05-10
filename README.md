@@ -1,4 +1,4 @@
-# Radar-Target-Generation-and-DetectionTo complete this project, you can download the Radar_Target_Generation_and_Detection.m starter file from the Supporting Materials section below.
+# Radar-Target-Generation-and-Detection. To complete this project, you can download the Radar_Target_Generation_and_Detection.m starter file from the Supporting Materials section below.
 
 Follow the steps in the previous concepts to complete your code.
 Write a README outlining the following:
